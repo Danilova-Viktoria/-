@@ -1,0 +1,38 @@
+.scandy {
+    position: absolute;
+    width: 1400px;
+    height: 715px;
+    left: 1400px;
+    top: 0px;
+}
+
+.logo {
+position: absolute;
+width: 64.87px;
+height: 20px;
+left: 124px;
+top: 38px; 
+}
+
+a {
+    position: absolute;
+    width: 108.22px;
+    height: 20px;
+    left: 278px;
+    top: 38px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+   
+    
+    
+    color: #533738;
+}
+
+
+
+
+
